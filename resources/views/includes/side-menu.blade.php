@@ -12,6 +12,9 @@
           <a href="/menu">Food</a>
         </li>
         <li>
+            <a href="/about">About Us</a>
+          </li>
+        <li>
           <a href="/waitlist">Waitlist</a>
         </li>
         <li>
